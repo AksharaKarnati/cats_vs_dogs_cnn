@@ -11,7 +11,7 @@ This project uses MobileNetV2 with transfer learning to classify images of cats 
 - Model Accuracy/Loss Visualization
 
 ## 📊 Results
-- Achieved ~XX% accuracy on validation set
+- Achieved ~98.07% accuracy on validation set
 - Grad-CAM highlights areas the model focused on
 
 ## 🔧 How to Run
@@ -20,7 +20,6 @@ This project uses MobileNetV2 with transfer learning to classify images of cats 
 
 ## 📁 Files
 - `cats_vs_dogs_cnn.ipynb`: Main notebook
-- `sample_images/`: Example predictions and Grad-CAM visualizations
+- `outputs`: Example predictions and Grad-CAM visualizations
 
-## 📸 Sample Grad-CAM
-![Grad-CAM Sample](sample_images/gradcam_example.jpg)
+
